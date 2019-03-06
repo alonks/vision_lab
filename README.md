@@ -53,6 +53,8 @@ Evaluation(include in presentation):
 - 1 point for demonstrating and explaining performance of the line-follower. Make sure you mention your method for tuning the controller gains. Hint: include error plots from **rqt_plot**
 Bonus:
 - +1 point for the fastest line follower on the circular track. Have a TA record your time. 
+## Due Date
+Lab 4 is due Wednesday, March 13 at 1pm. There will be a presentation then for this lab, (but no writeup).
 
 # Module 1: Cone Detection Via Color Segmentation
 In lecture we learned lots of different ways to detect objects. Sometimes it pays to train a fancy neural net to do the job. Sometimes we are willing to wait and let SIFT find it. Template matching is cool too.
