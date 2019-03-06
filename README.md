@@ -1,7 +1,7 @@
 # Lab 4: Vision
 
 Welcome to Lab 4, where you will learn how to use the camera to allow the racecar to park in front of a colored cone and follow a line. 
-I can edit!
+
 In this lab, your team will do the following:
 - Experiment/Prototype with several types of object detection algorithms
 - Learn how to transform a pixel from an image to a real world plane
